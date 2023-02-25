@@ -18,3 +18,12 @@ git reset [file name]
 # command to revert old part of code
 git checkout [file list]
 git checkout .
+
+# command to get the latest file
+git pull
+
+# command to add in the staging area
+git add -A    STAGES ALL
+git add .     STAGES NEW AND MODIFIED WITHOUT DELETED
+git add -u   STAGES MODIFIED AND DELETED WITHOUT NEW
+
