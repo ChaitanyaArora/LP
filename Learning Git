@@ -39,3 +39,11 @@ notepad .gitignore
  add it in .gitignore
 
 # By default branch is master
+git branch [BN]
+
+# Switch to login branch
+git checkout [BN]
+
+# to push into a specific branch
+git push origin [Branch Name]
+
