@@ -30,4 +30,9 @@ git add -u   STAGES MODIFIED AND DELETED WITHOUT NEW
 # view all the content of directory
 ls -la
 
-#
+# blank file
+touch .gitignore
+vim .gitignore
+notepad .gitignore
+
+# to not track a file
