@@ -5,5 +5,3 @@ git commit -m "First one"
 git log # to see changes of every developer
 git config --global  user.name "NAME"   # for all the repo to change name
 git config --global  user.email "email"   # for all the repo to change email
-
-
