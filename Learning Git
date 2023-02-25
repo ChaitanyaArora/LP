@@ -3,7 +3,7 @@ git init   # to initialise a repo in git
 git add .  # from working dir to
 git commit -m "First one"
 git log # to see changes of every developer
-git config --global  user.name "NAME"   # for all the repo
-git config --global  user.email "NAME"   # for all the repo
+git config --global  user.name "NAME"   # for all the repo to change name
+git config --global  user.email "email"   # for all the repo to change email
 
 
