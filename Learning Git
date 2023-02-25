@@ -7,3 +7,14 @@ git config --global  user.name "NAME"   # for all the repo to change name
 git config --global  user.email "email"   # for all the repo to change email
 git pull origin master
 git log
+
+# command to check difference
+git diff [file name]
+git diff --staged [file name]
+
+# command to unstage
+git reset [file name]
+
+# command to revert old part of code
+git checkout [file list]
+git checkout .
