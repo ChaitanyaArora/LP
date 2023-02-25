@@ -1,4 +1,6 @@
 git status
 git init   # to initialise a repo in git
 git add .  # from working dir to
+git commit -m "First one"
+git log
 
