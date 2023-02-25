@@ -50,5 +50,5 @@ git push origin [Branch Name]
 # to delete a branch
 git branch -d [BN]
 
-# to permanenty dete a branch
+# to permanenty delete a branch
 git push origin --delete [BN]
