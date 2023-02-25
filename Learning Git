@@ -27,3 +27,7 @@ git add -A    STAGES ALL
 git add .     STAGES NEW AND MODIFIED WITHOUT DELETED
 git add -u   STAGES MODIFIED AND DELETED WITHOUT NEW
 
+# view all the content of directory
+ls -la
+
+#
