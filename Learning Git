@@ -36,3 +36,6 @@ vim .gitignore
 notepad .gitignore
 
 # to not track a file
+ add it in .gitignore
+
+# By default branch is master
